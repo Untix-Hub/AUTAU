@@ -103,7 +103,7 @@ spawn(function()
             if Debris then
                 if #v:GetChildren() > 0 then
                     grabItem(v)
-                    wait(2.75)
+                    wait(3.15)
                 end
             end
         end
